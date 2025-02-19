@@ -10,7 +10,7 @@ Additionally, I'm actively learning algorithms and expanding my development skil
 - 📱 iOS Development: Swift, UIKit, Auto Layout (programmatic + Storyboard)
 - 🗂 Architecture: MVC, MVP
 - 🧪 Unit & UI Testing: Basic knowledge of unit testing and UI testing.
-- 🔧 Third-Party Libraries: Kingfisher, SwiftKeyChainWrapper and others.
+- 🔧 Third-Party dependencies: Kingfisher, SwiftKeyChainWrapper and others.
 - 💡 Algorithms & Data Structures (actively learning)
 - 🌎 English Proficiency: B1
 - 🐍 Other Technologies: Python (basic level), HTML/CSS
