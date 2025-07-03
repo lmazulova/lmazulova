@@ -2,15 +2,15 @@
 
 
 I'm an aspiring iOS developer with a strong interest in creating intuitive and visually engaging mobile applications using Swift.\
-I have experience working with UIKit and can build UIs both programmatically and through Storyboard.\
+I have experience with both UIKit and SwiftUI, and can build UIs both programmatically and through Storyboard.\
 Additionally, I'm actively learning algorithms and expanding my development skills.
 
 ### 👩‍💻 &nbsp;Skills
 
-- 📱 iOS Development: Swift, UIKit, Auto Layout (programmatic + Storyboard)
-- 🗂 Architecture: MVC, MVP
+- 📱 iOS Development: Swift, UIKit, SwiftUI, Auto Layout (programmatic + Storyboard)
+- 🗂 Architecture: MVC, MVP, MVVM
 - 🧪 Unit & UI Testing: Basic knowledge of unit testing and UI testing.
-- 🔧 Third-Party dependencies: Kingfisher, SwiftKeyChainWrapper and others.
+- 🔧 Third-Party dependencies: Kingfisher, SwiftKeyChainWrapper, openAPI and others.
 - 💡 Algorithms & Data Structures (actively learning)
 - 🌎 English Proficiency: B1
 - 🐍 Other Technologies: Python (basic level), HTML/CSS
